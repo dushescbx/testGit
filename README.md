@@ -1,3 +1,3 @@
 # testGit
-my test git project
-local changes from my PC
+my merge test1
+local changes merge test2 from my PC
